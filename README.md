@@ -4,6 +4,7 @@ Apasionada por el aprendizaje, la tecnología y el análisis de datos con propó
 
 ## Programming Languages
 - <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"  height="20"/> &nbsp;
+<img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white" height="20"/> &nbsp;
 <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat&logo=r&logoColor=white" height="20"/> &nbsp;
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" height="20"/> &nbsp;
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />&nbsp;
@@ -21,17 +22,21 @@ Apasionada por el aprendizaje, la tecnología y el análisis de datos con propó
 <img alt="keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20" />
 
 ## Tools
-- <img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?&style=flat&logo=microsoft-excel&logoColor=white" height="20" />
+- <img alt="Excel" src="https://img.shields.io/badge/Excel-%23217346.svg?&style=flat&logo=microsoft-excel&logoColor=white" height="20" />&nbsp;
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />
+
+## Skills destacadas
+- Buena en **C++** y **LaTeX**
+- Excelente manejo de **Excel** para análisis de datos
+- Comunicación clara y visual de resultados
+- Creatividad y lógica combinadas
 
 ## Interests
 - Inteligencia Artificial
 - Ciencia de Datos
 - Modelado Matemático
 - Visualización Interactiva
-- Excel aplicado al análisis y toma de decisiones
-
-## 📬 Contacto
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
+- Automatización con herramientas de oficina y programación
 
 <!--
 ✨ Soy una mente curiosa que mezcla lógica y sensibilidad.
