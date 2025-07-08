@@ -1,6 +1,6 @@
 # Hola, soy Sofía Gabriela Bayona Gómez 👋
 
-Apasionada por el aprendizaje, la tecnología y el análisis de datos con propósito. Me encanta explorar herramientas que conecten el pensamiento lógico con la creatividad, y compartir el conocimiento con quienes me rodean 🧠✨
+Soy estudiante de Ingeniería en Energías, me gusta la programación y el análisis de datos. Me encanta explorar herramientas que conecten el pensamiento lógico con la creatividad. 🧠✨
 
 ## Programming Languages
 - <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"  height="20"/> &nbsp;
@@ -26,17 +26,16 @@ Apasionada por el aprendizaje, la tecnología y el análisis de datos con propó
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?&style=flat&logo=latex&logoColor=white" height="20" />
 
 ## Skills destacadas
-- Buena en **C++** y **LaTeX**
-- Excelente manejo de **Excel** para análisis de datos
+- Buena en **C++**, **LaTeX** y **DFD (Diagramas de Flujo de Datos)**
+- Manejo de **Excel** para análisis de datos
 - Comunicación clara y visual de resultados
-- Creatividad y lógica combinadas
+- Creatividad y lógica 
 
 ## Interests
 - Inteligencia Artificial
 - Ciencia de Datos
-- Modelado Matemático
 - Visualización Interactiva
-- Automatización con herramientas de oficina y programación
+- Automatización con herramientas de programación
 
 <!--
 ✨ Soy una mente curiosa que mezcla lógica y sensibilidad.
